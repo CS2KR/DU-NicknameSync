@@ -1,0 +1,6 @@
+{
+  "Chat.Prefix": "{darkred}[CS2KR]{default}",
+  "Chat.NicknameSynced": "Discord nickname has been synced: {green}{0}",
+  "Chat.NotLinked": "Discord linking is required. Please use the {green}!discord{default} command.",
+  "Chat.SyncRequested": "Discord nickname sync requested."
+}

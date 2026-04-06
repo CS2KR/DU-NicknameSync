@@ -1,0 +1,6 @@
+{
+  "Chat.Prefix": "{darkred}[CS2KR]{default}",
+  "Chat.NicknameSynced": "디스코드 닉네임이 동기화되었습니다: {green}{0}",
+  "Chat.NotLinked": "디스코드 연동이 필요합니다. {green}!discord{default} 명령어를 사용해주세요.",
+  "Chat.SyncRequested": "디스코드 닉네임 동기화를 요청했습니다."
+}
